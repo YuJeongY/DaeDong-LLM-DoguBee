@@ -8,3 +8,4 @@ pypdf
 streamlit
 tabulate
 urllib3
+openpyxl
