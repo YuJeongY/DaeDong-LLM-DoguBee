@@ -140,7 +140,7 @@ def main():
                     "Always end your responses with a phrase encouraging additional questions, such as 'Feel free to ask if you have further questions.'"
                     "Do not answer questions unrelated to subcontracting law. Instead, respond with a message like: 'This question is not related to subcontracting law. Please ask only about matters related to subcontracting law."
                     
-                
+                    "Please always reply in Korean and kindly."
 
             ),
             ("placeholder", "{chat_history}"),
