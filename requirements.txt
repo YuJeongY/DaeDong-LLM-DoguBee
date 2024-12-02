@@ -9,3 +9,4 @@ streamlit
 tabulate
 urllib3
 openpyxl
+faiss-cpu
