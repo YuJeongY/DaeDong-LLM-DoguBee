@@ -1,0 +1,10 @@
+chardet
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+openai
+pypdf
+streamlit
+tabulate
+urllib3
